@@ -1,0 +1,22 @@
+{
+  "name": "shadowwizard",
+  "version": "1.0.1",
+  "description": "add awesome shadows for the non-designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirishaKomma/shadowwizard.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "siri-sha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirishaKomma/shadowwizard/issues"
+  },
+  "homepage": "https://github.com/SirishaKomma/shadowwizard#readme"
+}
