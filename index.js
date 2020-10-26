@@ -1,6 +1,6 @@
 function shadowizard(options){
-let images=document.querySelectorAll('.shadowwizard')
-if(options.shaodow_type=='hard'){
+let images=document.querySelectorAll('.shadowizard')
+if(options.shadow_type=='hard'){
     options.shadow_type='0px'
 }else
 options.shadow_type='15px';
