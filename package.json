@@ -1,6 +1,6 @@
 {
   "name": "ele-shadowizard",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "add awesome shadows for the non-designer",
   "main": "index.js",
   "scripts": {
